@@ -22,12 +22,12 @@ export async function generateMetadata({ params }: RitualPageProps): Promise<Met
 
   if (!ritual) {
     return {
-      title: "Ritueel niet gevonden - SpelVlam Blog",
+      title: "Traditie niet gevonden - SpelVlam Blog",
     }
   }
 
   return {
-    title: `${ritual.title} - Spelritueel - SpelVlam Blog`,
+    title: `${ritual.title} - Spel traditie - SpelVlam Blog`,
     description: ritual.description,
     openGraph: {
       title: ritual.title,
