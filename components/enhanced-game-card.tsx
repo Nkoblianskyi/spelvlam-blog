@@ -117,8 +117,7 @@ export default function EnhancedGameCard({ game, index = 0, monthlyPageUrl }: En
         {/* Enhanced CTA buttons */}
         {monthlyPageUrl ? (
           <div className="flex gap-2">
-            <Link
-              href={monthlyPageUrl}
+            <p
               className="flex-1 btn-enhanced bg-primary hover:bg-primary-dark text-white py-2 px-4 rounded-lg text-sm font-medium transition-all duration-300 text-center focus-ring group/btn"
             >
               <span className="flex items-center justify-center gap-2">
@@ -129,7 +128,7 @@ export default function EnhancedGameCard({ game, index = 0, monthlyPageUrl }: En
                   }`}
                 ></div>
               </span>
-            </Link>
+            </p>
             <Link
               href={`/${game.type === "bordspel" ? "bordspellen" : "digitale-spellen"}/${game.name.toLowerCase().replace(/\s+/g, "-")}`}
               className="flex-1 btn-enhanced bg-secondary hover:bg-secondary-dark text-white py-2 px-4 rounded-lg text-sm font-medium transition-all duration-300 text-center focus-ring group/btn"
