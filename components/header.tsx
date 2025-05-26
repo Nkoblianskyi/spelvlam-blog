@@ -20,7 +20,7 @@ export default function Header() {
     { name: "Home", href: "/" },
     { name: "Artikelen", href: "/blog" },
     { name: "Bordspellen", href: "/bordspellen" },
-    { name: "Rituelen", href: "/rituelen" },
+    { name: "Traditie", href: "/traditie" },
     { name: "Over Ons", href: "/over-ons" },
     { name: "Contact", href: "/contact" },
   ]
