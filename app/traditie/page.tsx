@@ -5,8 +5,8 @@ import type { Metadata } from "next"
 import { Clock, Users, Calendar, Share2 } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Spelrituelen Archief - SpelVlam Blog",
-  description: "Ontdek al onze spelrituelen en laat je inspireren voor jouw perfecte game night.",
+  title: "Speltraditie Archief - SpelVlam Blog",
+  description: "Ontdek al onze Speltraditie en laat je inspireren voor jouw perfecte game night.",
 }
 
 export default function RituelenPage() {
@@ -16,9 +16,9 @@ export default function RituelenPage() {
     <main className="py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h1 className="text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-6">Spelrituelen Archief</h1>
+          <h1 className="text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-6">Speltraditie Archief</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ontdek al onze spelrituelen en laat je inspireren voor jouw perfecte game night. Van gezellige
+            Ontdek al onze Speltraditie en laat je inspireren voor jouw perfecte game night. Van gezellige
             vrijdagavonden tot ontspannen zondagmiddagen.
           </p>
         </div>
@@ -26,7 +26,7 @@ export default function RituelenPage() {
         {/* Featured Tips */}
         <div className="mb-16 bg-gradient-to-br from-primary-light via-white to-secondary-light rounded-2xl p-8 shadow-md">
           <h2 className="text-2xl font-serif font-bold text-gray-900 mb-8 text-center">
-            Tips voor het Perfecte Spelritueel
+            Tips voor het Perfecte Speltraditie
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="text-center p-6 bg-white rounded-xl shadow-sm">
