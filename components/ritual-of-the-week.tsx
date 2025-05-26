@@ -66,13 +66,13 @@ export default function RitualOfTheWeek() {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
-                  href={`/rituelen/${latestRitual.slug}`}
+                  href={`/traditie/${latestRitual.slug}`}
                   className="btn-primary flex items-center justify-center gap-2"
                 >
                   <span>Lees volledig ritueel</span>
                   <ChevronRight className="h-4 w-4" />
                 </Link>
-                <Link href="/rituelen" className="btn-secondary flex items-center justify-center gap-2">
+                <Link href="/traditie" className="btn-secondary flex items-center justify-center gap-2">
                   <span>Bekijk alle rituelen</span>
                 </Link>
               </div>
