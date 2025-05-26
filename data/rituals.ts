@@ -31,10 +31,10 @@ export const rituals: Ritual[] = [
     duration: "3-4 uur",
     players: "4-8 spelers",
     fullContent: [
-      "Er is iets magisch aan de combinatie van goede vrienden, lekker eten en een uitdagend spel. Ons 'Taco & Tactiek' ritueel is ontstaan uit de behoefte om de werkweek af te sluiten met iets speciaals.",
-      "Codenames is het perfecte spel voor dit ritueel omdat het communicatie en teamwork stimuleert, terwijl de taco's zorgen voor een ontspannen sfeer. De jazzmuziek op de achtergrond creëert de perfecte ambiance.",
-      "Dit ritueel draait niet alleen om het winnen van het spel, maar om het creëren van herinneringen en het versterken van vriendschappen. De combinatie van mentale uitdaging en culinair genot maakt elke vrijdagavond bijzonder.",
-      "Na maanden van dit ritueel hebben we gemerkt dat onze groep hechter is geworden en dat iedereen uitkijkt naar deze wekelijkse traditie. Het is meer dan een spelletjesavond - het is een moment van verbinding.",
+      "Er is iets magisch aan de combinatie van goede vrienden, lekker eten en een uitdagend spel. Ons 'Taco & Tactiek' traditiel is ontstaan uit de behoefte om de werkweek af te sluiten met iets speciaals.",
+      "Codenames is het perfecte spel voor dit traditiel omdat het communicatie en teamwork stimuleert, terwijl de taco's zorgen voor een ontspannen sfeer. De jazzmuziek op de achtergrond creëert de perfecte ambiance.",
+      "Dit traditiel draait niet alleen om het winnen van het spel, maar om het creëren van herinneringen en het versterken van vriendschappen. De combinatie van mentale uitdaging en culinair genot maakt elke vrijdagavond bijzonder.",
+      "Na maanden van dit traditiel hebben we gemerkt dat onze groep hechter is geworden en dat iedereen uitkijkt naar deze wekelijkse traditie. Het is meer dan een spelletjesavond - het is een moment van verbinding.",
     ],
     ingredients: [
       "Verse taco shells (hard en soft)",
@@ -86,10 +86,10 @@ export const rituals: Ritual[] = [
     duration: "2-3 uur",
     players: "2-4 spelers",
     fullContent: [
-      "Zondagmiddagen zijn gemaakt voor ontspanning en bezinning. Ons 'Zondag Strategie & Stroopwafels' ritueel combineert de rust van het weekend met de mentale stimulatie van een goed bordspel.",
-      "Wingspan is de perfecte keuze voor dit ritueel vanwege zijn kalme, contemplatieve gameplay en prachtige artwork. Het spel past perfect bij de serene sfeer van een zondagmiddag.",
+      "Zondagmiddagen zijn gemaakt voor ontspanning en bezinning. Ons 'Zondag Strategie & Stroopwafels' traditiel combineert de rust van het weekend met de mentale stimulatie van een goed bordspel.",
+      "Wingspan is de perfecte keuze voor dit traditiel vanwege zijn kalme, contemplatieve gameplay en prachtige artwork. Het spel past perfect bij de serene sfeer van een zondagmiddag.",
       "De verse stroopwafels en warme thee creëren een gezellige, huiselijke sfeer die uitnodigt tot langzaam spelen en genieten van elke zet. Het is een moment van mindfulness in een drukke wereld.",
-      "Dit ritueel heeft ons geleerd dat gaming niet altijd competitief hoeft te zijn. Soms gaat het om het proces, de schoonheid van het spel en het delen van een rustig moment met dierbaren.",
+      "Dit traditiel heeft ons geleerd dat gaming niet altijd competitief hoeft te zijn. Soms gaat het om het proces, de schoonheid van het spel en het delen van een rustig moment met dierbaren.",
     ],
     ingredients: [
       "Verse stroopwafels (bij voorkeur van de markt)",
@@ -123,7 +123,7 @@ export const rituals: Ritual[] = [
       "Zorg voor goede verlichting om kaarten goed te kunnen lezen",
       "Houd een vogelgids bij de hand voor extra informatie",
       "Maak er een telefoonvrije zone van",
-      "Plan voldoende tijd in - haast past niet bij dit ritueel",
+      "Plan voldoende tijd in - haast past niet bij dit traditiel",
     ],
   },
   {
@@ -140,10 +140,10 @@ export const rituals: Ritual[] = [
     duration: "1-1.5 uur",
     players: "2-4 spelers",
     fullContent: [
-      "Woensdag is vaak de zwaarste dag van de werkweek - je bent nog niet halverwege, maar het weekend voelt nog ver weg. Ons 'Woensdag Werkpauze' ritueel is ontworpen om deze mentale uitdaging aan te gaan.",
-      "Azul is de perfecte keuze voor dit ritueel omdat het visueel rustgevend is, maar toch genoeg strategische diepte heeft om je gedachten af te leiden van werkstress. De prachtige tegels en eenvoudige regels maken het toegankelijk na een lange werkdag.",
+      "Woensdag is vaak de zwaarste dag van de werkweek - je bent nog niet halverwege, maar het weekend voelt nog ver weg. Ons 'Woensdag Werkpauze' traditiel is ontworpen om deze mentale uitdaging aan te gaan.",
+      "Azul is de perfecte keuze voor dit traditiel omdat het visueel rustgevend is, maar toch genoeg strategische diepte heeft om je gedachten af te leiden van werkstress. De prachtige tegels en eenvoudige regels maken het toegankelijk na een lange werkdag.",
       "De verse koffie geeft de nodige energie boost, terwijl het spel zorgt voor mentale ontspanning. Het is een perfecte balans tussen stimulatie en relaxatie.",
-      "Dit ritueel heeft ons geholpen om de werkweek beter vol te houden en heeft onze productiviteit in de tweede helft van de week merkbaar verbeterd. Het is een investering in welzijn die zich direct terugbetaalt.",
+      "Dit traditiel heeft ons geholpen om de werkweek beter vol te houden en heeft onze productiviteit in de tweede helft van de week merkbaar verbeterd. Het is een investering in welzijn die zich direct terugbetaalt.",
     ],
     ingredients: [
       "Verse koffiebonen (medium roast)",
@@ -170,7 +170,7 @@ export const rituals: Ritual[] = [
       "Plan de volgende werkpauze in",
     ],
     tips: [
-      "Houd het ritueel kort - maximaal 1.5 uur",
+      "Houd het traditiel kort - maximaal 1.5 uur",
       "Bereid koffie van tevoren voor snellere start",
       "Kies voor decaf als je 's avonds slecht slaapt",
       "Zet telefoons op stil voor volledige ontspanning",
