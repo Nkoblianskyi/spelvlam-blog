@@ -106,7 +106,7 @@ export default function RituelenPage() {
 
                 <div className="flex items-center justify-between">
                   <Link
-                    href={`/rituelen/${ritual.slug}`}
+                    href={`/traditie/${ritual.slug}`}
                     className="bg-primary hover:bg-primary-dark text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors flex items-center gap-1"
                   >
                     <span>Lees meer</span>
