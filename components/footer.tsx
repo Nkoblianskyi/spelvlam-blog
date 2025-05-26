@@ -60,11 +60,11 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/rituelen"
+                  href="/traditie"
                   className="text-gray-300 hover:text-primary transition-colors flex items-center gap-2"
                 >
                   <span className="w-1.5 h-1.5 bg-primary rounded-full"></span>
-                  Rituelen
+                  Traditie
                 </Link>
               </li>
               <li>

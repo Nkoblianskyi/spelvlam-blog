@@ -195,7 +195,7 @@ export default function RitualPage({ params }: RitualPageProps) {
               .map((relatedRitual) => (
                 <Link
                   key={relatedRitual.id}
-                  href={`/rituelen/${relatedRitual.slug}`}
+                  href={`/traditie/${relatedRitual.slug}`}
                   className="block bg-white rounded-2xl p-6 shadow-md hover:shadow-lg transition-all hover:-translate-y-1"
                 >
                   <div className="flex items-center gap-2 mb-3">

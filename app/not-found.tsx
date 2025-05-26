@@ -68,11 +68,11 @@ export default function NotFound() {
               <div className="text-sm font-medium text-gray-900">Bordspellen</div>
             </Link>
             <Link
-              href="/rituelen"
+              href="/traditie"
               className="p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-all duration-300 hover:-translate-y-1 focus-ring"
             >
               <div className="text-2xl mb-2">🕯️</div>
-              <div className="text-sm font-medium text-gray-900">Rituelen</div>
+              <div className="text-sm font-medium text-gray-900">Traditie</div>
             </Link>
             <Link
               href="/over-ons"
