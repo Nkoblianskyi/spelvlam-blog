@@ -1,0 +1,77 @@
+import type { BlogPost } from "@/types"
+
+export const blogPosts: BlogPost[] = [
+  {
+      id: "1",
+      title: "De Voordelen van Bordspellen voor Kinderen",
+    preview:
+      "Ontdek hoe bordspellen de cognitieve ontwikkeling van kinderen stimuleren en sociale vaardigheden verbeteren.",
+    content: [
+      "Bordspellen zijn veel meer dan alleen entertainment. Ze bieden kinderen een unieke kans om belangrijke vaardigheden te ontwikkelen terwijl ze plezier hebben.",
+      "Onderzoek toont aan dat regelmatig bordspellen spelen de concentratie verbetert en strategisch denken stimuleert.",
+      "Daarnaast leren kinderen door bordspellen om met verlies om te gaan en hun emoties te reguleren.",
+      "De sociale aspecten van bordspellen zijn ook van groot belang. Kinderen leren samenwerken, communiceren en empathie tonen.",
+      "Voor ouders zijn bordspellen een perfecte manier om quality time door te brengen met hun kinderen zonder schermen.",
+    ],
+    image: "/5ccd978aa6e3a686cb970d9d19341bda.jpg",
+    category: "Bordspellen",
+    date: "2025-05-15",
+    author: "Emma van der Berg",
+    slug: "voordelen-bordspellen-kinderen",
+  },
+  {
+    id: "2",
+    title: "Top 5 Strategiespellen voor Beginners",
+    preview:
+      "Een selectie van toegankelijke strategiespellen die perfect zijn voor nieuwe spelers die willen beginnen.",
+    content: [
+      "Strategiespellen kunnen intimiderend lijken voor beginners, maar er zijn veel toegankelijke opties beschikbaar.",
+      "Ticket to Ride is een uitstekende keuze voor beginners. De regels zijn eenvoudig te leren maar bieden genoeg diepte.",
+      "Splendor combineert eenvoudige mechanica met strategische beslissingen die elke beurt belangrijk maken.",
+      "King of Tokyo brengt spanning en geluk samen in een toegankelijk pakket dat perfect is voor families.",
+      "Azul is een prachtig spel dat patronen en planning combineert op een visueel aantrekkelijke manier.",
+      "Deze spellen vormen een perfecte basis voor wie de wereld van strategiespellen wil verkennen.",
+    ],
+    image: "/00292adee6223b6f766a12bcf44a9206.jpg",
+    category: "Reviews",
+    date: "2025-05-10",
+    author: "Pieter Janssen",
+    slug: "top-5-strategiespellen-beginners",
+  },
+  {
+    id: "3",
+    title: "Gaming en Mentale Gezondheid: Een Balans Vinden",
+    preview: "Hoe gaming positief kan bijdragen aan mentale gezondheid en welke grenzen belangrijk zijn.",
+    content: [
+      "Gaming heeft vaak een negatief imago als het gaat om mentale gezondheid, maar onderzoek toont een genuanceerder beeld.",
+      "Matige gaming kan stress verminderen en ontspanning bieden na een drukke dag.",
+      "Sociale games helpen bij het onderhouden van vriendschappen en het maken van nieuwe connecties.",
+      "Puzzelspellen en strategiespellen kunnen cognitieve functies verbeteren en het geheugen trainen.",
+      "Het belangrijkste is om een gezonde balans te vinden tussen gaming en andere activiteiten.",
+      "Signalen van problematisch gaminggedrag herkennen is cruciaal voor het behouden van een gezonde relatie met spellen.",
+    ],
+    image: "/7d7a75bcf9396ba31b2179689b343030.jpg",
+    category: "Vaardigheden",
+    date: "2025-05-05",
+    author: "Dr. Sarah Vermeulen",
+    slug: "gaming-mentale-gezondheid-balans",
+  },
+  {
+    id: "4",
+    title: "De Opkomst van Coöperatieve Bordspellen",
+    preview: "Waarom spellen waarbij je samenwerkt in plaats van concurreert steeds populairder worden.",
+    content: [
+      "Coöperatieve bordspellen hebben de laatste jaren een enorme groei doorgemaakt.",
+      "In plaats van tegen elkaar te spelen, werken alle spelers samen tegen het spel zelf.",
+      "Dit type spel vermindert competitie-stress en bevordert teamwork en communicatie.",
+      "Pandemic was een van de eerste grote successen in dit genre en toonde de kracht van samenwerking.",
+      "Moderne coöperatieve spellen bieden complexe uitdagingen die alleen door goede samenwerking opgelost kunnen worden.",
+      "Voor families en vriendschappen kunnen deze spellen een verfrissende verandering zijn van traditionele competitieve spellen.",
+    ],
+    image: "/824d5df5146a645d1e45f089848f5312.jpg",
+    category: "Trends",
+    date: "2025-05-01",
+    author: "Mark de Vries",
+    slug: "opkomst-cooperatieve-bordspellen",
+  },
+]
