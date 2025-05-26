@@ -193,47 +193,6 @@ export default function BordspellenPage() {
           </div>
         </section>
 
-        {/* Where to Buy */}
-        <section className="mb-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Waar Bordspellen Kopen?</h2>
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">Online Winkels</h3>
-              <ul className="space-y-3 text-gray-600">
-                <li>
-                  <strong>Bol.com</strong> - Grootste selectie, snelle levering
-                </li>
-                <li>
-                  <strong>Spellenrijk</strong> - Gespecialiseerde spelwinkel
-                </li>
-                <li>
-                  <strong>De Spelletjes Vrienden</strong> - Goede prijzen en service
-                </li>
-                <li>
-                  <strong>Amazon</strong> - Internationale titels
-                </li>
-              </ul>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">Fysieke Winkels</h3>
-              <ul className="space-y-3 text-gray-600">
-                <li>
-                  <strong>Lokale spelwinkels</strong> - Persoonlijk advies
-                </li>
-                <li>
-                  <strong>Boekhandels</strong> - Populaire titels
-                </li>
-                <li>
-                  <strong>Speelgoedwinkels</strong> - Familie spellen
-                </li>
-                <li>
-                  <strong>Tweedehands</strong> - Marktplaats, Facebook
-                </li>
-              </ul>
-            </div>
-          </div>
-        </section>
-
         {/* Community Section */}
         <section className="bg-gradient-to-br from-orange-50 to-blue-50 rounded-lg p-8 text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Word Onderdeel van de Gemeenschap</h2>
