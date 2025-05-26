@@ -119,7 +119,7 @@ export default function HomePage() {
                   <div className="w-1 h-8 bg-primary rounded-full"></div>
                   <h3 className="text-2xl font-serif font-semibold text-gray-900">Bordspel van de Maand</h3>
                 </div>
-                <EnhancedGameCard game={gameOfTheMonth} index={0} monthlyPageUrl="/traditie" />
+                <EnhancedGameCard game={gameOfTheMonth} index={0} monthlyPageUrl="/spel-van-de-maand/bordspel" />
               </div>
             )}
             {digitalGameOfTheMonth && (
@@ -128,7 +128,7 @@ export default function HomePage() {
                   <div className="w-1 h-8 bg-secondary rounded-full"></div>
                   <h3 className="text-2xl font-serif font-semibold text-gray-900">Digitaal Spel van de Maand</h3>
                 </div>
-                <EnhancedGameCard game={digitalGameOfTheMonth} index={1} monthlyPageUrl="/traditie" />
+                <EnhancedGameCard game={digitalGameOfTheMonth} index={1} monthlyPageUrl="/spel-van-de-maand/digitaal" />
               </div>
             )}
           </div>
