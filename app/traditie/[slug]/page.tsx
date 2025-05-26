@@ -50,11 +50,11 @@ export default function RitualPage({ params }: RitualPageProps) {
         {/* Breadcrumb */}
         <nav className="mb-8">
           <Link
-            href="/rituelen"
+            href="/traditie"
             className="inline-flex items-center text-primary hover:text-primary-dark transition-colors"
           >
             <ArrowLeft className="w-4 h-4 mr-2" />
-            Terug naar rituelen
+            Terug naar traditie
           </Link>
         </nav>
 
@@ -167,7 +167,7 @@ export default function RitualPage({ params }: RitualPageProps) {
 
           {/* Share Section */}
           <section className="mb-12 bg-gradient-to-br from-primary-light via-white to-secondary-light rounded-2xl p-8 text-center shadow-md">
-            <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">Probeer dit ritueel!</h2>
+            <h2 className="text-2xl font-serif font-bold text-gray-900 mb-4">Probeer dit traditie!</h2>
             <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
               Heb je dit ritueel geprobeerd? We horen graag over jouw ervaring! Deel je foto's en verhalen met ons.
             </p>
@@ -187,7 +187,7 @@ export default function RitualPage({ params }: RitualPageProps) {
 
         {/* Related Rituals */}
         <section className="pt-8 border-t border-gray-200">
-          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-6">Andere Rituelen</h2>
+          <h2 className="text-2xl font-serif font-bold text-gray-900 mb-6">Andere Traditie</h2>
           <div className="grid md:grid-cols-2 gap-6">
             {rituals
               .filter((r) => r.id !== ritual.id)
